@@ -26,23 +26,17 @@ class program12 {
     private String name;
     private double salary;
 
-    // Constructor
     public program12(String name, double salary) {
         this.name = name;
         this.salary = salary;
     }
-
-    // Getter for name
     public String getName() {
         return name;
     }
 
-    // Getter for salary
     public double getSalary() {
         return salary;
     }
-
-    // Setter for salary
     public void setSalary(double salary) {
         this.salary = salary;
     }
