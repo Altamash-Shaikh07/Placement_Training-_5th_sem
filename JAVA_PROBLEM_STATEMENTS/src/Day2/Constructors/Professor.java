@@ -30,7 +30,7 @@
 // Sample Output 2 
 // 100123 Jibran 100000 
 // 100124 Rahman 200000 
-package Day2;
+package Day2.Constructors;
 import java.util.Scanner;
 class Professor {
     public int id;

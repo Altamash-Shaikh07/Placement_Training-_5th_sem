@@ -16,7 +16,7 @@
 // 253 
 // 5.6 
 // 2 
-package Day2;
+package Day2.Inheritance;
 import java.util.Scanner;
 class Employee{
     private int empId;

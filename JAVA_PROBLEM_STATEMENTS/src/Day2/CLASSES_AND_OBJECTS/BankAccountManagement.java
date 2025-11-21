@@ -1,4 +1,4 @@
-package Day2;
+package Day2.CLASSES_AND_OBJECTS;
 
 import java.util.Scanner;
 

@@ -63,7 +63,7 @@
 // breadth 
 // height 
 // Area of Cube is 6000 
-package Day2;
+package Day2.Constructors;
 import java.util.Scanner;
 class Shape {
     private int length;

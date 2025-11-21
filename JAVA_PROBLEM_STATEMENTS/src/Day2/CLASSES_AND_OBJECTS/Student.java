@@ -33,7 +33,7 @@
 // 3 96
 // 1 76
 // 1 259
-package Day2;
+package Day2.CLASSES_AND_OBJECTS;
 
 import java.util.Scanner;
 class Student {

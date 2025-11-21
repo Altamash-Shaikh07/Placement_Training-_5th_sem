@@ -1,5 +1,7 @@
-package Day2;
+package Day2.Inheritance;
 import java.util.Scanner;
+
+import Day2.CLASSES_AND_OBJECTS.Student;
 
 // Superclass Person
 class Person {
